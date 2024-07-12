@@ -16,9 +16,7 @@ Este projeto foi desenvolvido com o objetivo de aprendizado em desenvolvimento f
   - [Tailwind CSS](https://tailwindcss.com/)
   - [Toastify](https://apvarun.github.io/toastify-js/)
 - **Back-end**:
-  - (Especificar tecnologias usadas, como Node.js, Express, etc.)
-- **Banco de Dados**:
-  - (Especificar banco de dados usado, como MongoDB, MySQL, etc.)
+  - [Node.js](https://nodejs.org/)
 
 ## ⚙️ Funcionalidades
 
